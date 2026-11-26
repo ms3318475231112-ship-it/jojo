@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "تسعير الدهان - قسم الزخرفة",
+  "short_name": "تسعير الدهان",
+  "description": "حساب الخامات والأجور وقيمة بند الدهان",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071E52",
+  "theme_color": "#F4F2FF",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "screenshots/input.png", "sizes": "780x1688", "type": "image/png", "form_factor": "narrow", "label": "إدخال المساحة والخطوات والخامات" },
+    { "src": "screenshots/result.png", "sizes": "780x1688", "type": "image/png", "form_factor": "narrow", "label": "جدول النتيجة وقيمة البند" }
+  ]
+}
